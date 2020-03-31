@@ -1,3 +1,3 @@
 # testing-learning
 
-# Repo for learning go
+Repo for learning go
